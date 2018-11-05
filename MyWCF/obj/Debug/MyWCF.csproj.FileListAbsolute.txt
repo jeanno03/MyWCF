@@ -1,0 +1,7 @@
+C:\Users\Jeannory.Phou\source\repos\MyWCF\MyWCF\bin\MyWCF.dll.config
+C:\Users\Jeannory.Phou\source\repos\MyWCF\MyWCF\bin\MyWCF.dll
+C:\Users\Jeannory.Phou\source\repos\MyWCF\MyWCF\bin\MyWCF.pdb
+C:\Users\Jeannory.Phou\source\repos\MyWCF\MyWCF\obj\Debug\MyWCF.csprojAssemblyReference.cache
+C:\Users\Jeannory.Phou\source\repos\MyWCF\MyWCF\obj\Debug\MyWCF.csproj.CoreCompileInputs.cache
+C:\Users\Jeannory.Phou\source\repos\MyWCF\MyWCF\obj\Debug\MyWCF.dll
+C:\Users\Jeannory.Phou\source\repos\MyWCF\MyWCF\obj\Debug\MyWCF.pdb
